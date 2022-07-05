@@ -2,5 +2,4 @@ theme: jekyll-theme-minimal
 title: fNIRS Glossary Project
 logo: logo2.png
 description: The fNIRS Glossary Project intends to develop a community-sourced glossary of terms relating to fNIRS.
-show_downloads: true
 google_analytics:
