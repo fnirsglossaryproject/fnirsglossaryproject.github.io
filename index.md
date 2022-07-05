@@ -9,12 +9,18 @@ A common understanding of terminologies is essential at all stages of the resear
 - pre-processing 
 - data analysis of fNIRS experiments.
 
+_This project is inspired by the Glossary Project of the Framework for Open and Responsible Research Training ([FORRT](https://forrt.org/glossary/))_ 
+
+
+
+
+
+
 <!---
 ## Welcome to GitHub webpages
 
 You can use the [editor on GitHub](https://github.com/smonterohdz/smonterohdz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-_This project is inspired by the Glossary Project of the Framework for Open and Responsible Research Training ([FORRT](https://forrt.org/glossary/))_ 
 
 ### Markdown
 
