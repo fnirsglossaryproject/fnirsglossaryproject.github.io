@@ -2,7 +2,6 @@
 
 
 The fNIRS Glossary project is intended to develop a community-sourced glossary (i.e., useful nomenclature) of terms relating to functional near-infrared spectroscopy (fNIRS) via a consensus-based methodology. We invite all fNIRS researchers to join the fNIRS Glossary Project by writing definitions, commenting on existing definitions, adding alternative definitions where applicable, and suggesting relevant references.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Description
 
 A common understanding of terminologies is essential at all stages of the research process to facilitate effective communication and avoid confusions and/or misconceptions. However, this is particularly challenging in rapidly expanding fields such as functional near-infrared spectroscopy (fNIRS) including researchers with different backgrounds and fields of applications. Therefore, the fNIRS Glossary Project intends to develop a community-sourced glossary (i.e., useful nomenclature) of terms relating to fNIRS as a technology as well as 
