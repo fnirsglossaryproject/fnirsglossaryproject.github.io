@@ -10,7 +10,7 @@ A common understanding of terminologies is essential at all stages of the resear
 - data analysis of fNIRS experiments.
 
 ### Contributors
-Katharina Stute, Louisa Gossé, Samuel Montero-Hernandez, Guy Perkins, Meryem A. Yücel5
+Katharina Stute, Louisa Gossé, Samuel Montero-Hernandez, Guy Perkins, Meryem A. Yücel
 
 
 _This project is inspired by the Glossary Project of the Framework for Open and Responsible Research Training ([FORRT](https://forrt.org/glossary/))_ 
