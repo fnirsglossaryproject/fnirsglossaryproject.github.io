@@ -12,6 +12,12 @@ A common understanding of terminologies is essential at all stages of the resear
 ### Contributors
 Katharina Stute, Louisa Gossé, Samuel Montero-Hernandez, Guy Perkins, Meryem A. Yücel
 
+**Interesting in contributing?** [Link to register via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfEhy2wh5RHyUDCGlITK2eJoHyV0n4IkfESzsg0kmr_UbFbLw/viewform)
+
+**Learn more about the project:** Have a look at our [Read-me](https://docs.google.com/document/d/1lY1PvPA93LeiVKIwZlrGvQEJN3wboblK/edit)
+
+**Contact us:** fnirsglossaryproject@gmail.com
+
 
 _This project is inspired by the Glossary Project of the Framework for Open and Responsible Research Training ([FORRT](https://forrt.org/glossary/))_ 
 
