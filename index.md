@@ -18,7 +18,7 @@ Katharina Stute, Louisa Gossé, Samuel Montero-Hernandez, Guy Perkins, Meryem A.
 
 **Contact us:** fnirsglossaryproject@gmail.com
 
-Follow us on Twitter: [twitter.com/fNIRSglossary](https://twitter.com/fNIRSglossary)
+**Follow us on Twitter**: [twitter.com/fNIRSglossary](https://twitter.com/fNIRSglossary)
 
 
 _This project is inspired by the Glossary Project of the Framework for Open and Responsible Research Training ([FORRT](https://forrt.org/glossary/))_ 
