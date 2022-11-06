@@ -16,6 +16,8 @@ Katharina Stute, Louisa Gossé, Samuel Montero-Hernandez, Guy Perkins, Meryem A.
 <!---
 **Learn more about the project:** Have a look at our [Read-me](https://docs.google.com/document/d/1lY1PvPA93LeiVKIwZlrGvQEJN3wboblK/edit)
 -->
+**Forum:** You can ask questions and get in touch with other contributors in our [Forum](https://openfnirs.org/community/glossary-project/)
+
 **Contact us:** fnirsglossaryproject@gmail.com
 
 **Follow us on Twitter**: [twitter.com/fNIRSglossary](https://twitter.com/fNIRSglossary)
