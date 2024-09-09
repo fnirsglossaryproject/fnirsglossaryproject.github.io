@@ -1,10 +1,11 @@
 ## Welcome to the fNIRS Glossary Project
 
-< < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < 
+=======================================================
 The online version of The fNIRS Glossary Project is now available on the openfNIRS website: 
 https://openfnirs.org/standards/fnirs-glossary-project/.
 All future updates and additions will be posted there.
-> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 
+=======================================================
+
 The fNIRS Glossary project is intended to develop a community-sourced glossary (i.e., useful nomenclature) of terms relating to functional near-infrared spectroscopy (fNIRS) via a consensus-based methodology. We invite all fNIRS researchers to join the fNIRS Glossary Project by writing definitions, commenting on existing definitions, adding alternative definitions where applicable, and suggesting relevant references.
 ### Description
 
